@@ -1,0 +1,9 @@
+c:\users\elijah\documents\visual studio 2015\Projects\NotepadApp\NotepadApp\bin\Debug\NotepadApp.exe.config
+c:\users\elijah\documents\visual studio 2015\Projects\NotepadApp\NotepadApp\bin\Debug\NotepadApp.exe
+c:\users\elijah\documents\visual studio 2015\Projects\NotepadApp\NotepadApp\bin\Debug\NotepadApp.pdb
+c:\users\elijah\documents\visual studio 2015\Projects\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csprojResolveAssemblyReference.cache
+c:\users\elijah\documents\visual studio 2015\Projects\NotepadApp\NotepadApp\obj\Debug\NotepadApp.Form1.resources
+c:\users\elijah\documents\visual studio 2015\Projects\NotepadApp\NotepadApp\obj\Debug\NotepadApp.Properties.Resources.resources
+c:\users\elijah\documents\visual studio 2015\Projects\NotepadApp\NotepadApp\obj\Debug\NotepadApp.csproj.GenerateResource.Cache
+c:\users\elijah\documents\visual studio 2015\Projects\NotepadApp\NotepadApp\obj\Debug\NotepadApp.exe
+c:\users\elijah\documents\visual studio 2015\Projects\NotepadApp\NotepadApp\obj\Debug\NotepadApp.pdb

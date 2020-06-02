@@ -1,0 +1,6 @@
+c:\users\elijah\documents\visual studio 2015\Projects\BSTTree\BSTTree\bin\Debug\BSTTree.exe.config
+c:\users\elijah\documents\visual studio 2015\Projects\BSTTree\BSTTree\bin\Debug\BSTTree.exe
+c:\users\elijah\documents\visual studio 2015\Projects\BSTTree\BSTTree\bin\Debug\BSTTree.pdb
+c:\users\elijah\documents\visual studio 2015\Projects\BSTTree\BSTTree\obj\Debug\BSTTree.csprojResolveAssemblyReference.cache
+c:\users\elijah\documents\visual studio 2015\Projects\BSTTree\BSTTree\obj\Debug\BSTTree.exe
+c:\users\elijah\documents\visual studio 2015\Projects\BSTTree\BSTTree\obj\Debug\BSTTree.pdb

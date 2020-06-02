@@ -1,0 +1,9 @@
+C:\Users\Elijah\Documents\Visual Studio 2015\Projects\SpreadSheet\ExpTree\bin\Debug\ExpTree.exe.config
+C:\Users\Elijah\Documents\Visual Studio 2015\Projects\SpreadSheet\ExpTree\bin\Debug\ExpTree.exe
+C:\Users\Elijah\Documents\Visual Studio 2015\Projects\SpreadSheet\ExpTree\bin\Debug\ExpTree.pdb
+C:\Users\Elijah\Documents\Visual Studio 2015\Projects\SpreadSheet\ExpTree\obj\Debug\ExpTree.csprojResolveAssemblyReference.cache
+C:\Users\Elijah\Documents\Visual Studio 2015\Projects\SpreadSheet\ExpTree\obj\Debug\ExpTree.exe
+C:\Users\Elijah\Documents\Visual Studio 2015\Projects\SpreadSheet\ExpTree\obj\Debug\ExpTree.pdb
+C:\Users\Elijah\Desktop\SpreadSheet\ExpTree\bin\Debug\ExpTree.exe.config
+C:\Users\Elijah\Desktop\SpreadSheet\ExpTree\obj\Debug\ExpTree.exe
+C:\Users\Elijah\Desktop\SpreadSheet\ExpTree\obj\Debug\ExpTree.pdb
